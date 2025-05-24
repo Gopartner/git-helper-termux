@@ -51,9 +51,9 @@ Lalu pilih nomor perintah Git yang ingin dijalankan.
 ---
 
 **Kontak & Jejaring Sosial:**
-YouTube: \[YourChannelName]
-Instagram: \[@yourhandle]
-Email: \[[email@example.com](mailto:email@example.com)]
+Facebook: \[[Facebook](https://www.facebook.com/yudibilly)]
+Youtube: \[[Youtube](https://youtube.com/@newbiegan3909)]
+Email: \[[yudibilly@gmail.com](mailto:yudibilly@gmail.com)]
 
 ---
 
