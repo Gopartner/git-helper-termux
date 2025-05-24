@@ -51,9 +51,10 @@ Lalu pilih nomor perintah Git yang ingin dijalankan.
 ---
 
 **Kontak & Jejaring Sosial:**
-Facebook: \[[Facebook](https://www.facebook.com/yudibilly)]
-Youtube: \[[Youtube](https://youtube.com/@newbiegan3909)]
-Email: \[[yudibilly@gmail.com](mailto:yudibilly@gmail.com)]
+
+- [Facebook](https://www.facebook.com/yudibilly)  
+- [YouTube](https://youtube.com/@newbiegan3909)  
+- [Email](mailto:yudibilly@gmail.com)
 
 ---
 
